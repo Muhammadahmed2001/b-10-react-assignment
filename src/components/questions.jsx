@@ -69,9 +69,13 @@ const ComplexData = () => {
         );
       })}
     </div>
-
- 
   );
 };
 
-export { NameComponent, ObjName, ArrData, ObjListData, ComplexData };
+
+
+const LinksData = ()=>{
+
+}
+
+export { NameComponent, ObjName, ArrData, ObjListData, ComplexData,LinksData };
