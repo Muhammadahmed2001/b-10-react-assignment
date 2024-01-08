@@ -1,3 +1,11 @@
 .data-ul{
   list-style: none;
 }
+.card-body{
+  color: antiquewhite !important;
+}
+
+.id{
+  color: rgba(255, 0, 0, 0.63) !important;
+  font-weight: 1300;
+}
